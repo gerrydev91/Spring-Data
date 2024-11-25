@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON `test-spring`.* TO 'beto'@'%';
+FLUSH PRIVILEGES;
